@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 
 class MyApp extends StatefulWidget {
-  MyApp._internal();
-  static final MyApp _instance = MyApp._internal();
+  const MyApp._internal();
+  static const MyApp _instance = MyApp._internal();
   factory MyApp() => _instance;
 
   @override
