@@ -1,5 +1,6 @@
 class AppStrings {
   static String noRoute = "No Route Found";
+  static String skipOnBoarding = "Skip";
   static String onBoardingTitle1 = "See The Best #1";
   static String onBoardingTitle2 = "See The Best #2";
   static String onBoardingTitle3 = "See The Best #3";
